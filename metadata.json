@@ -1,0 +1,20 @@
+{
+  "KPlugin": {
+    "Name": "kwin-round-inner",
+    "Description": "Rounds the inner corners of every window",
+    "Icon": "preferences-system-windows",
+    "Authors": [
+      {
+        "Email": "kovacsmillio@gmail.com",
+        "Name": "Sean Kovacs"
+      }
+    ],
+    "Id": "kwin-round-inner",
+    "Version": "1.0",
+    "License": "GPLv3",
+    "Website": "https://github.com/sckova/kwin-round-inner"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "KPackageStructure": "KWin/Script"
+}
